@@ -1,2 +1,2 @@
 # CRM-Panel
-It is made for a Customer relationship management..
+It is made for a Customer relationship management.
